@@ -31,25 +31,28 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 | 6  |Resistencias de 1k|se utilizan en los circuitos para limitar el valor de la corriente o para fijar el valor de la tensión, según la Ley de Ohm|![image](https://user-images.githubusercontent.com/99991865/192933039-0b857725-d306-4ced-ae16-679589196f19.png)|   5      |  10         |
 | 7  |Protoboard  |es un tablero con orificios que se encuentran conectados eléctricamente entre sí de manera interna, habitualmente siguiendo patrones de líneas, en el cual se pueden insertar componentes electrónicos, cables para el armado|![image](https://user-images.githubusercontent.com/99991865/192933683-d1955de9-b1fa-4063-8218-b822c8b7eedf.png)|   1      |     110        |
 | 8  |Cables     |sirve para conectar todos los compenetes a la protoboard|![image](https://user-images.githubusercontent.com/99991865/192934122-6938a1d7-55a6-4caa-85c9-80a27cf06301.png)|   5      |    55        |
-| 9  |sensor DHT11|Dispositivo que detecta la temperatura y humedad ambiente.|![image]()|   1      |    85        |
-
-Batería 9 voltios
+| 9  |sensor DHT11|Dispositivo que detecta la temperatura y humedad ambiente.|![image](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/descargar%20(1).jpeg)|   1      |    85        |
+| 10 |sensor de pulso|Dispositivo que detecta el pulso de un humano.|![image](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/e250cb_379ae2060325444ba1b4c287005a3e40~mv2.jpg)|   1      |    85        |
+| 11 |sensor de oxigenacion en sangre|Dispositivo que detecta el nivel de oxigenación en sangre.|![image](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/Grove_Gas_Sensor_Oxygen.jpg)|   1      |    85        |
+| 12 |Giroscopio|Dispositivo que detecta el movimiento.|![image](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/images.jpeg)|   1      |    85        |
 
 ## Epicas del proyecto
-- El proyecto debe detectar si hay alcohol en el ambiente
-- El proyecto debe medir el porcentaje de alcohol que existe en el ambiente (Al soplarlo)
-- El proyecto debe dar una alerta con la ayuda de los leds cuando se rebasa cierto limite en el porcentaje de alcohol
-- El proyecto debe dar una alerta en la aplicación con los detalles acerca del porcentaje de alcohol detectado
+- El proyecto debe detectar si hay movimiento durante la fase del sueño
+- El proyecto debe medir el porcentaje de oxigenación en sangre
+- El proyecto debe medir la temperatura del ambiente en el que se está durmiendo
+- El proyecto debe combinar estos parámetros para poder mostrar informacion útil posteriormente en la aplicación
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-| 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar prubas correspondientes con alguna detección de gas para comprobar que su funcionamiento sea el correcto.            |Integrantes de equipo             |
-| 2  |Funcionalidad del sensor de gas MQ 3   | Alta          | 0.5          | Realizar prueba con algún gas posible de verificar el funcionamiento del mismo.             | Integrantes de equipo |
-| 3  | Funcionalidad de los leds             | Media         |  0.3          | Realizar prueba segun el nivel del gas se encenderan             |   integrantes del equipo          |
+| 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar pruebas correspondientes en un entorno controlado para comprobar que su funcionamiento sea el correcto.            |Integrantes de equipo             |
+| 2  |Funcionalidad de los sensores y actuadores   | Alta          | 0.5          | Realizar pruebas con algún usuario para verificar que todo funciona correctamente. | Integrantes de equipo |
+| 3  | Funcionalidad de los leds             | Media         |  0.3          | Realizar pruebas en el aplicativo para verificar que el flujo de esta es correcto y útil para el usuario             |   integrantes del equipo          |
 
 ## Prototipo en dibujo
 
 ![image](https://user-images.githubusercontent.com/99991865/192936794-274c5f21-6002-47d9-a9e5-a5c583eff731.png)
-![image](https://user-images.githubusercontent.com/99991865/192936778-39b2fe11-2343-4a57-9932-fb1ba8ae76d1.png)
 
+# Video de prueba
+
+![video](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/WearablePrototype.mp4)
