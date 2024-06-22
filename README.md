@@ -51,7 +51,7 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 
 ## Prototipo en dibujo
 
-![image](https://user-images.githubusercontent.com/99991865/192936794-274c5f21-6002-47d9-a9e5-a5c583eff731.png)
+![image]([https://drive.google.com/file/d/1YPnnImgO5gKoISyYOWtNjV5CIhQyWQJe/view?usp=share_link])
 
 # Video de prueba
 
