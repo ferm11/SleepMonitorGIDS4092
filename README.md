@@ -44,6 +44,7 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 - El proyecto debe medir el porcentaje de oxigenación en sangre
 - El proyecto debe medir la temperatura del ambiente en el que se está durmiendo
 - El proyecto debe combinar estos parámetros para poder mostrar informacion útil posteriormente en la aplicación
+- El proyecto debe alertar mediante la aplicación movil cuando haya un cambio de temperatura drástico, para que de esta forma el usuario pueda tomar medidas
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
@@ -51,6 +52,7 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 | 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar pruebas correspondientes en un entorno controlado para comprobar que su funcionamiento sea el correcto.            |Integrantes de equipo             |
 | 2  |Funcionalidad de los sensores y actuadores   | Alta          | 0.5          | Realizar pruebas con algún usuario para verificar que todo funciona correctamente. | Integrantes de equipo |
 | 3  | Funcionalidad de los leds             | Media         |  0.3          | Realizar pruebas en el aplicativo para verificar que el flujo de esta es correcto y útil para el usuario             |   integrantes del equipo          |
+| 4 | Funcionalidad de las notificaciones | Baja | 0.5 | Realizar pruebas en un entorno controlado para de esta forma poder verificar la funcionalidad | Integrantes del equipo |
 
 ## Prototipo en dibujo
 
