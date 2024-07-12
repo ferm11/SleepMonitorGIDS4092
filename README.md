@@ -36,8 +36,7 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 | 8  |Cables     |sirve para conectar todos los compenetes a la protoboard|![image](https://user-images.githubusercontent.com/99991865/192934122-6938a1d7-55a6-4caa-85c9-80a27cf06301.png)|   5      |    55        |
 | 9  |sensor DHT11|Dispositivo que detecta la temperatura y humedad ambiente.|![image](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/descargar%20(1).jpeg)|   1      |    85        |
 | 10 |sensor de pulso|Dispositivo que detecta el pulso de un humano.|![image](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/e250cb_379ae2060325444ba1b4c287005a3e40~mv2.jpg)|   1      |    85        |
-| 11 |sensor de oxigenacion en sangre|Dispositivo que detecta el nivel de oxigenación en sangre.|![image](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/Grove_Gas_Sensor_Oxygen.jpg)|   1      |    85        |
-| 12 |Giroscopio|Dispositivo que detecta el movimiento.|![image](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/images.jpeg)|   1      |    85        |
+| 11 |Giroscopio|Dispositivo que detecta el movimiento.|![image](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/images.jpeg)|   1      |    85        |
 
 ## Epicas del proyecto
 - El proyecto debe detectar si hay movimiento durante la fase del sueño
