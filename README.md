@@ -5,6 +5,9 @@
 - Mendoza García Fernando
 - Ortega Amaro Angel de Jesús
 
+## Visión
+Crear un dispositivo portátil que permita a los usuarios obtener información detallada sobre la calidad de su sueño mediante múltiples sensores. Al combinar estos datos con un algoritmo personalizado, el dispositivo proporcionará recomendaciones individuales para mejorar los hábitos de sueño, superando a otros monitores de sueño que solo se enfocan en aspectos básicos.
+
 ## Objetivo General
 Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas aspectos acerca de que tan bien está durmiendo, esto mediante los multiples sensores elegidos para poder medir aspectos importantes del sueño del humano. De esta forma, combinando los datos obtenidos mediante el dispositivo con un algorimto diseñado para valorar la calidad del sueño en función de los datos obtenidos, se podrán hacer recomendaciones personalizadas por usuario.
 
