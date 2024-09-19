@@ -60,3 +60,49 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 # Video de prueba
 
 ![video](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/WearablePrototype.mp4)
+
+# Proceso del desarrollo
+
+## Código de arduino
+![image](https://github.com/user-attachments/assets/158eb3f4-966f-4c4c-bbf8-b5d1c0e62bb1)
+
+## Nodos de node-red
+![image](https://github.com/user-attachments/assets/38132117-915d-4aeb-9ef1-f515046bcfc0)
+![image](https://github.com/user-attachments/assets/d382fb3c-d497-4052-97e5-d305941e0e79)
+![image](https://github.com/user-attachments/assets/67cfb246-381b-4e43-8ea5-29f56dc491c6)
+![image](https://github.com/user-attachments/assets/2cd707a2-efe7-48d9-9136-d78bd488afd6)
+![image](https://github.com/user-attachments/assets/43d58696-1950-4f43-a7e9-59cc8edef041)
+
+## Nodos para las funciones agregadas
+![image](https://github.com/user-attachments/assets/40e38337-0b9b-4f2b-bef5-9549da17fc34)
+
+
+## Dashboard de node-red
+![image](https://github.com/user-attachments/assets/79efa1fd-0472-4600-92c2-3471761b103d)
+![image](https://github.com/user-attachments/assets/33ee6bfc-862d-49ec-99d1-bf2ca2e7516d)
+
+## Código de Flutter
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e81a48ce-46bc-4eb5-bea9-eb7b63cfdb8e">
+
+## Dashboard de Flutter
+![image](https://github.com/user-attachments/assets/7ea68b0f-c8f2-4d4a-a1d9-a77bbad499a1)
+![image](https://github.com/user-attachments/assets/392f1aef-be6f-43fb-a6c3-669395ede48d)
+![image](https://github.com/user-attachments/assets/be1d5e7d-2a3c-4450-9145-68bf8ad35309)
+![image](https://github.com/user-attachments/assets/a1645cd9-007b-445d-9c79-f51b04adb0fd)
+![image](https://github.com/user-attachments/assets/633c55d7-95ce-4ea8-99b3-2a9d29a78e93)
+![image](https://github.com/user-attachments/assets/87f70833-4216-40f0-88a0-023c406d4790)
+
+## Control de actuadores Flutter
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/eb94eb96-0fcc-4f97-95b4-40776cb23886">
+![image](https://github.com/user-attachments/assets/2e464db5-56c1-43d9-87d6-a543eb71f18f)
+
+# Videos
+## Video de demostración
+
+
+## Video de patrocinadora
+
+
+# Carta
+![image](https://github.com/user-attachments/assets/2c4f37d4-4a41-48a7-80f3-c1d034b7c749)
+
