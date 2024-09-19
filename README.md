@@ -60,3 +60,5 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 # Video de prueba
 
 ![video](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/WearablePrototype.mp4)
+
+# 
